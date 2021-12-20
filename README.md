@@ -22,7 +22,7 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 <div>
     Help me to translate this repo, click the localized button <br /> 
     <br/>
-    <a title="Crowdin" target="_blank" href="https://crowdin.com/project/solid-music"><img src="https://badges.crowdin.net/solid-music/localized.svg"></a>
+    <a title="Crowdin" target="_blank" href="https://crowdin.com/project/AbhumanyuXMusic"><img src="https://badges.crowdin.net/AbhumanyuXMusic/localized.svg"></a>
 </div>
 
 <h3>Features</h3> 
